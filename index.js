@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["OrleansRP | EMS"];
+const statusMessages = ["Bot oficial"];
 
 
 let currentIndex = 0;
